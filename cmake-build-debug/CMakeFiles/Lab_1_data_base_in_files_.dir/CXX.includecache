@@ -1,0 +1,60 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/C++/1/1 course 2nd term(2020)/Lab.1(data  base in files)/Functions.cpp
+Functions.h
+D:/C++/1/1 course 2nd term(2020)/Lab.1(data  base in files)/Functions.h
+
+D:/C++/1/1 course 2nd term(2020)/Lab.1(data  base in files)/Functions.h
+Product.h
+D:/C++/1/1 course 2nd term(2020)/Lab.1(data  base in files)/Product.h
+Sorts.h
+D:/C++/1/1 course 2nd term(2020)/Lab.1(data  base in files)/Sorts.h
+
+D:/C++/1/1 course 2nd term(2020)/Lab.1(data  base in files)/Mode.cpp
+Mode.h
+D:/C++/1/1 course 2nd term(2020)/Lab.1(data  base in files)/Mode.h
+
+D:/C++/1/1 course 2nd term(2020)/Lab.1(data  base in files)/Mode.h
+Functions.h
+D:/C++/1/1 course 2nd term(2020)/Lab.1(data  base in files)/Functions.h
+
+D:/C++/1/1 course 2nd term(2020)/Lab.1(data  base in files)/Product.cpp
+Product.h
+D:/C++/1/1 course 2nd term(2020)/Lab.1(data  base in files)/Product.h
+
+D:/C++/1/1 course 2nd term(2020)/Lab.1(data  base in files)/Product.h
+iostream
+-
+string
+-
+fstream
+-
+ctime
+-
+iomanip
+-
+vector
+-
+chrono
+-
+thread
+-
+
+D:/C++/1/1 course 2nd term(2020)/Lab.1(data  base in files)/Sorts.cpp
+Sorts.h
+D:/C++/1/1 course 2nd term(2020)/Lab.1(data  base in files)/Sorts.h
+
+D:/C++/1/1 course 2nd term(2020)/Lab.1(data  base in files)/Sorts.h
+Product.h
+D:/C++/1/1 course 2nd term(2020)/Lab.1(data  base in files)/Product.h
+
+D:/C++/1/1 course 2nd term(2020)/Lab.1(data  base in files)/main.cpp
+Mode.h
+D:/C++/1/1 course 2nd term(2020)/Lab.1(data  base in files)/Mode.h
+

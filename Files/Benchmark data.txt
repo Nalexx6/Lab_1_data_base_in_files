@@ -1,0 +1,120 @@
+Amount of products = 4
+Clearing files: 3 ms
+Clearing memory: 0 ms
+Creating products: 2 ms
+Saving all products to files: 20 ms
+Clearing memory: 1 ms
+Loading all products from txt file: 0 ms
+Clearing memory: 0 ms
+Loading all products from binary file: 2 ms
+Searching by name: 0 ms
+Searching by unit and quantity: 2 ms
+Searching by date of production: 2 ms
+Counting sort by unit: 0 ms
+Radix sort by expiry period: 0 ms
+Sort by one parameter: 0 ms
+Sort by combination of parameters: 0 ms
+Time for 1 iteration: 35 ms
+Size of binary file in bytes: 222 bytes
+Size of txt file in bytes: 163 bytes
+
+Amount of products = 40
+Clearing files: 0 ms
+Clearing memory: 0 ms
+Creating products: 1 ms
+Saving all products to files: 20 ms
+Clearing memory: 1 ms
+Loading all products from txt file: 1 ms
+Clearing memory: 0 ms
+Loading all products from binary file: 1 ms
+Searching by name: 1 ms
+Searching by unit and quantity: 5 ms
+Searching by date of production: 1 ms
+Counting sort by unit: 1 ms
+Radix sort by expiry period: 0 ms
+Sort by one parameter: 0 ms
+Sort by combination of parameters: 0 ms
+Time for 1 iteration: 33 ms
+Size of binary file in bytes: 2204 bytes
+Size of txt file in bytes: 1658 bytes
+
+Amount of products = 400
+Clearing files: 1 ms
+Clearing memory: 0 ms
+Creating products: 2 ms
+Saving all products to files: 35 ms
+Clearing memory: 0 ms
+Loading all products from txt file: 9 ms
+Clearing memory: 0 ms
+Loading all products from binary file: 3 ms
+Searching by name: 1 ms
+Searching by unit and quantity: 1 ms
+Searching by date of production: 1 ms
+Counting sort by unit: 1 ms
+Radix sort by expiry period: 14 ms
+Sort by one parameter: 3 ms
+Sort by combination of parameters: 2 ms
+Time for 1 iteration: 82 ms
+Size of binary file in bytes: 22012 bytes
+Size of txt file in bytes: 17031 bytes
+
+Amount of products = 4000
+Clearing files: 1 ms
+Clearing memory: 0 ms
+Creating products: 12 ms
+Saving all products to files: 109 ms
+Clearing memory: 1 ms
+Loading all products from txt file: 166 ms
+Clearing memory: 2 ms
+Loading all products from binary file: 82 ms
+Searching by name: 1 ms
+Searching by unit and quantity: 2 ms
+Searching by date of production: 4 ms
+Counting sort by unit: 8 ms
+Radix sort by expiry period: 14 ms
+Sort by one parameter: 45 ms
+Sort by combination of parameters: 98 ms
+Time for 1 iteration: 649 ms
+Size of binary file in bytes: 219892 bytes
+Size of txt file in bytes: 173949 bytes
+
+Amount of products = 40000
+Clearing files: 0 ms
+Clearing memory: 1 ms
+Creating products: 193 ms
+Saving all products to files: 1224 ms
+Clearing memory: 3 ms
+Loading all products from txt file: 1059 ms
+Clearing memory: 4 ms
+Loading all products from binary file: 522 ms
+Searching by name: 6 ms
+Searching by unit and quantity: 6 ms
+Searching by date of production: 53 ms
+Counting sort by unit: 124 ms
+Radix sort by expiry period: 385 ms
+Sort by one parameter: 1024 ms
+Sort by combination of parameters: 705 ms
+Time for 1 iteration: 5579 ms
+Size of binary file in bytes: 2199492 bytes
+Size of txt file in bytes: 1780446 bytes
+
+Amount of products = 400000
+Clearing files: 1 ms
+Clearing memory: 5 ms
+Creating products: 2183 ms
+Saving all products to files: 8335 ms
+Clearing memory: 79 ms
+Loading all products from txt file: 9901 ms
+Clearing memory: 43 ms
+Loading all products from binary file: 4977 ms
+Searching by name: 25 ms
+Searching by unit and quantity: 28 ms
+Searching by date of production: 647 ms
+Counting sort by unit: 1836 ms
+Radix sort by expiry period: 3369 ms
+Sort by one parameter: 14847 ms
+Sort by combination of parameters: 17078 ms
+Time for 1 iteration: 66277 ms
+Size of binary file in bytes: 21999921 bytes
+Size of txt file in bytes: 18206639 bytes
+

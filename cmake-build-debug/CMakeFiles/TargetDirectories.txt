@@ -1,0 +1,3 @@
+D:/C++/1/1 course 2nd term(2020)/Lab.1(data  base in files)/cmake-build-debug/CMakeFiles/Lab_1_data_base_in_files_.dir
+D:/C++/1/1 course 2nd term(2020)/Lab.1(data  base in files)/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C++/1/1 course 2nd term(2020)/Lab.1(data  base in files)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

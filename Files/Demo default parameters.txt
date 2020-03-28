@@ -1,0 +1,7 @@
+10
+m 2
+f 7
+m 6 cheese kilos 30 2 2 2021 20
+f 3 choco kilos 20 3 3 2026 40
+ch k 10 32 3 3 2022
+e uend
